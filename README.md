@@ -1,0 +1,2 @@
+These are some beginner's python project to start with the journey of python programming. I've recently started learning Python and after learning various things in python, I realised that the best way to learn and practise python is by creating small projects and slowly improving the difficulty level of the projects.
+So I'll be uploading more projects here soon. These repository is to document and showcase my learnings of python programming which can also be helpful to other's who want to learn python and make projects.
